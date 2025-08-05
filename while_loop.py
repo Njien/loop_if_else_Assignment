@@ -12,6 +12,6 @@ while i <= 100:
     students.append(student)
     i += 1
 
-# Optional preview
 print(students)
+
 
